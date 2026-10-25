@@ -1,0 +1,6 @@
+{
+  "name": "A-BLISS | Tu estilo, tu esencia",
+  "description": "Boutique online exclusiva de moda, accesorios, joyería, belleza y regalos en Perú. Pedidos directos y personalizados por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
